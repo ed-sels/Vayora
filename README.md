@@ -1,2 +1,2 @@
-# DrapeHaus
+# Vayora
 A fashion website
